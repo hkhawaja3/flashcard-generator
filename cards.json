@@ -1,0 +1,18 @@
+[
+  {
+    "type": "basic",
+    "front": "Who is the Best in the World?",
+    "back": "CM Punk"
+  },
+  {
+    "type": "cloze",
+    "partial": "... is the Best in the World!",
+    "fullText": "CM Punk is the Best in the World!",
+    "cloze": "CM Punk"
+  },
+  {
+    "type": "basic",
+    "front": "Who retired the Undertaker?",
+    "back": "Roman Reigns"
+  }
+]
