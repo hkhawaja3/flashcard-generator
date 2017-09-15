@@ -1,0 +1,22 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkhawaja3/flashcard-Generator.git"
+  },
+  "author": "Hamza Khawaja",
+  "bugs": {
+    "url": "https://github.com/hkhawaja3/flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/hkhawaja3/flashcard-Generator#readme",
+  "dependencies": {
+    "argv": "0.0.2",
+    "inquirer": "^3.0.6"
+  }
+}
